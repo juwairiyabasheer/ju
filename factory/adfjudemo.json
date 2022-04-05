@@ -1,0 +1,9 @@
+{
+	"name": "adfjudemo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "935be838-dbb0-4b25-8663-0fd102f670e1",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
